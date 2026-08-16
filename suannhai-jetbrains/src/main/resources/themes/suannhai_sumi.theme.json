@@ -99,12 +99,12 @@
       "hoverBackground": "#3A383540"
     },
     "FileColor": {
-      "Yellow": "#E2943B15",
-      "Green": "#7BA23F15",
-      "Blue": "#58B2DC15",
-      "Violet": "#8B81C315",
-      "Orange": "#C7802D15",
-      "Rose": "#CB404215"
+      "Yellow": "#E2943B08",
+      "Green": "#7BA23F08",
+      "Blue": "#58B2DC08",
+      "Violet": "#8B81C308",
+      "Orange": "#C7802D08",
+      "Rose": "#CB404208"
     },
     "Label": {
       "foreground": "#C4C7C1",
