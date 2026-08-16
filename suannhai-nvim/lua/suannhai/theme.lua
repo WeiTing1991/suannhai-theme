@@ -16,14 +16,20 @@ function M.setup(style, opts)
   vim.o.termguicolors = true
   vim.g.colors_name = "suannhai-" .. style
 
+  local terminal_colors = nil
+
   for group, hl in pairs(groups) do
-    hl = type(hl) == "string" and { link = hl } or hl
-    vim.api.nvim_set_hl(0, group, hl)
+    if group == "_terminal_colors" then
+      terminal_colors = hl
+    else
+      hl = type(hl) == "string" and { link = hl } or hl
+      vim.api.nvim_set_hl(0, group, hl)
+    end
   end
 
-  if colors.terminal then
+  if terminal_colors then
     for i = 0, 15 do
-      vim.g["terminal_color_" .. i] = colors.terminal[i]
+      vim.g["terminal_color_" .. i] = terminal_colors[i]
     end
   end
 
