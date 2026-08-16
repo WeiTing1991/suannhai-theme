@@ -1,0 +1,22 @@
+{
+    "name": "Suannhai Shironeri",
+    "appearance": "light",
+    "neutrals": {
+        "background": { "name": "白練 shironeri",         "english": "Bleached silk", "hex": "#FCFAF2" },
+        "surface":    { "name": "生成り色 kinariiro",      "english": "Unbleached",    "hex": "#F5F2E8" },
+        "border":     { "name": "白鼠 shironezumi",       "english": "White mouse",   "hex": "#BDC0BA" },
+        "comment":    { "name": "鈍色 nibiiro",           "english": "Dull grey",     "hex": "#8C8578" },
+        "foreground": { "name": "墨 sumi",               "english": "Ink",           "hex": "#2C2A26" }
+    },
+    "accents": {
+        "keyword":  { "name": "蘇芳 suō",               "english": "Sappanwood",    "hex": "#973C3F" },
+        "function": { "name": "桑染 kuwazome",            "english": "Mulberry",      "hex": "#A86520" },
+        "string":   { "name": "緑 midori",               "english": "Green",         "hex": "#227D51" },
+        "type":     { "name": "藍色 aiiro",              "english": "Indigo",        "hex": "#165E83" },
+        "number":   { "name": "京紫 kyōmurasaki",        "english": "Kyoto purple",  "hex": "#745399" },
+        "constant": { "name": "代赭 taisha",             "english": "Burnt sienna",  "hex": "#9C5A38" }
+    },
+    "diagnostic": {
+        "error": { "name": "紅 kurenai",                 "english": "Crimson",       "hex": "#A03030" }
+    }
+}

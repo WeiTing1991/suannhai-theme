@@ -1,0 +1,22 @@
+{
+    "name": "Suannhai Lâm-ní",
+    "appearance": "dark",
+    "neutrals": {
+        "background": { "name": "深藍 tshim-nâ",         "english": "Deep indigo",   "hex": "#0E1A28" },
+        "surface":    { "name": "靛底 tiān-té",           "english": "Indigo ground", "hex": "#172433" },
+        "border":     { "name": "藍灰 nâ-hue",           "english": "Indigo grey",   "hex": "#2A3D52" },
+        "comment":    { "name": "水藍灰 tsuí-nâ-hue",     "english": "Water grey",    "hex": "#5E7085" },
+        "foreground": { "name": "素白 sòo-pe̍h",          "english": "Undyed white",  "hex": "#C8D0D8" }
+    },
+    "accents": {
+        "keyword":  { "name": "茜紅 tshiàn-âng",         "english": "Madder red",    "hex": "#C4614F" },
+        "function": { "name": "薑黃 kiunn-n̂g",           "english": "Turmeric",      "hex": "#D4A24C" },
+        "string":   { "name": "竹青 tik-tshenn",          "english": "Jade green",    "hex": "#6FA88C" },
+        "type":     { "name": "天青 thinn-tshenn",        "english": "Sky blue",      "hex": "#7FB5D5" },
+        "number":   { "name": "藤紫 tîn-tsí",            "english": "Vine purple",   "hex": "#A192C4" },
+        "constant": { "name": "柿澀 khī-siap",           "english": "Persimmon",     "hex": "#D08A5C" }
+    },
+    "diagnostic": {
+        "error": { "name": "朱 tsu",                     "english": "Vermilion",     "hex": "#D45A52" }
+    }
+}

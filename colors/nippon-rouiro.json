@@ -1,0 +1,22 @@
+{
+    "name": "Suannhai Rouiro",
+    "appearance": "dark",
+    "neutrals": {
+        "background": { "name": "呂色 rouiro",           "english": "Lacquer black", "hex": "#0C0C0C" },
+        "surface":    { "name": "墨 sumi",               "english": "Ink",           "hex": "#161616" },
+        "border":     { "name": "消炭色 keshizumiiro",    "english": "Charcoal",      "hex": "#2E2C2A" },
+        "comment":    { "name": "利休鼠 rikyunezumi",     "english": "Rikyu grey",    "hex": "#656255" },
+        "foreground": { "name": "白鼠 shironezumi",       "english": "White mouse",   "hex": "#BDC0BA" }
+    },
+    "accents": {
+        "keyword":  { "name": "緋 sohi",                 "english": "Persimmon fire","hex": "#ED784A" },
+        "function": { "name": "山吹 yamabuki",            "english": "Kerria gold",   "hex": "#FFB11B" },
+        "string":   { "name": "若竹 wakatake",            "english": "Young bamboo",  "hex": "#5DAC81" },
+        "type":     { "name": "浅葱 asagi",              "english": "Pale scallion", "hex": "#33A6B8" },
+        "number":   { "name": "藤 fuji",                 "english": "Wisteria",      "hex": "#8B81C3" },
+        "constant": { "name": "琥珀 kohaku",             "english": "Amber",         "hex": "#CA7A2C" }
+    },
+    "diagnostic": {
+        "error": { "name": "銀朱 ginsyu",                "english": "Vermillion",    "hex": "#C73E3A" }
+    }
+}

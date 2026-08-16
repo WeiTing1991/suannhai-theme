@@ -1,0 +1,22 @@
+{
+    "name": "Suannhai Jiufen",
+    "appearance": "dark",
+    "neutrals": {
+        "background": { "name": "暗暝 àm-mê",           "english": "Night",         "hex": "#151A21" },
+        "surface":    { "name": "石階 tsio̍h-kai",        "english": "Stone steps",   "hex": "#252C36" },
+        "border":     { "name": "竹青 tik-tshenn",        "english": "Bamboo",        "hex": "#3D4652" },
+        "comment":    { "name": "霧灰 bū-hue",           "english": "Sea mist",      "hex": "#6F7480" },
+        "foreground": { "name": "米白 bí-pe̍h",           "english": "Rice white",    "hex": "#D6CFC4" }
+    },
+    "accents": {
+        "keyword":  { "name": "燈籠紅 ting-lâng-âng",    "english": "Lantern red",   "hex": "#E05A4E" },
+        "function": { "name": "茶金 tê-kim",             "english": "Tea gold",      "hex": "#D9A441" },
+        "string":   { "name": "茶山青 tê-suann-tshenn",   "english": "Tea mountain",  "hex": "#7FA37A" },
+        "type":     { "name": "海霧青 hái-bū-tshenn",     "english": "Sea mist",      "hex": "#6FA6A8" },
+        "number":   { "name": "芋紫 ōo-tsí",             "english": "Taro purple",   "hex": "#A98BB5" },
+        "constant": { "name": "磚瓦橙 tsng-hiā",         "english": "Roof tile",     "hex": "#E08A50" }
+    },
+    "diagnostic": {
+        "error": { "name": "硃紅 tsu-âng",               "english": "Cinnabar",      "hex": "#D64545" }
+    }
+}

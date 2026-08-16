@@ -1,0 +1,22 @@
+{
+    "name": "Suannhai Sumi",
+    "appearance": "dark",
+    "neutrals": {
+        "background": { "name": "墨 sumi",               "english": "Ink",           "hex": "#1C1C1C" },
+        "surface":    { "name": "濃鼠 koinezumi",         "english": "Dark mouse",    "hex": "#262626" },
+        "border":     { "name": "鈍色 nibiiro",           "english": "Dull grey",     "hex": "#3A3835" },
+        "comment":    { "name": "梅鼠 umenezumi",         "english": "Plum grey",     "hex": "#9E7A7A" },
+        "foreground": { "name": "灰白色 kaihakushoku",    "english": "Ash white",     "hex": "#C4C7C1" }
+    },
+    "accents": {
+        "keyword":  { "name": "臙丹 entan",              "english": "Cinnabar red",   "hex": "#D75455" },
+        "function": { "name": "朽葉 kuchiba",            "english": "Fallen leaves",  "hex": "#E2943B" },
+        "string":   { "name": "萌黄 moegi",              "english": "Sprout green",   "hex": "#7BA23F" },
+        "type":     { "name": "空 sora",                 "english": "Sky blue",       "hex": "#58B2DC" },
+        "number":   { "name": "藤 fuji",                 "english": "Wisteria",       "hex": "#8B81C3" },
+        "constant": { "name": "金茶 kincha",             "english": "Gold brown",     "hex": "#C7802D" }
+    },
+    "diagnostic": {
+        "error": { "name": "赤紅 akabeni",               "english": "Deep red",       "hex": "#CB4042" }
+    }
+}

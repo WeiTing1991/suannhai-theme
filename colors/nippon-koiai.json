@@ -1,0 +1,22 @@
+{
+    "name": "Suannhai Koiai",
+    "appearance": "dark",
+    "neutrals": {
+        "background": { "name": "濃藍 koiai",            "english": "Deep indigo",   "hex": "#0F2540" },
+        "surface":    { "name": "藍墨茶 aisumicha",       "english": "Indigo ink",    "hex": "#16304E" },
+        "border":     { "name": "紺鼠 konnezumi",        "english": "Navy grey",     "hex": "#2E4560" },
+        "comment":    { "name": "深川鼠 fukagawanezumi",  "english": "Blue grey",     "hex": "#77969A" },
+        "foreground": { "name": "白菫色 shirosumireiro",  "english": "Pale violet",   "hex": "#BDC6D0" }
+    },
+    "accents": {
+        "keyword":  { "name": "珊瑚朱 sangosyu",         "english": "Coral",          "hex": "#F17C67" },
+        "function": { "name": "卵 tamago",               "english": "Egg yolk",       "hex": "#F9BF45" },
+        "string":   { "name": "青磁 seiji",              "english": "Celadon",        "hex": "#69B0AC" },
+        "type":     { "name": "勿忘草 wasurenagusa",      "english": "Forget-me-not", "hex": "#7DB9DE" },
+        "number":   { "name": "楝 ouchi",                "english": "Chinaberry",     "hex": "#9B90C2" },
+        "constant": { "name": "洗柿 araigaki",           "english": "Washed persimmon","hex": "#E79460" }
+    },
+    "diagnostic": {
+        "error": { "name": "紅緋 benihi",                "english": "Scarlet",        "hex": "#F75C2F" }
+    }
+}

@@ -1,0 +1,7 @@
+id = "suannhai"
+name = "Suannhai"
+version = "0.1.0"
+schema_version = 1
+authors = ["WeitingChen <72130405+WeiTing1991@users.noreply.github.com>"]
+description = "8 themes built from traditional Formosa and Nippon colors -- 5 darks, 3 lights, with distinct accent palettes for each variant"
+repository = "https://github.com/WeiTing1991/suannhai-theme"

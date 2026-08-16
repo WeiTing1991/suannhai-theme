@@ -1,0 +1,22 @@
+{
+    "name": "Suannhai Torinoko",
+    "appearance": "light",
+    "neutrals": {
+        "background": { "name": "鳥の子色 torinokoiro",  "english": "Eggshell",      "hex": "#FFF1CF" },
+        "surface":    { "name": "練色 neriiro",           "english": "Silk cream",    "hex": "#F7E7C4" },
+        "border":     { "name": "砂色 sunairo",           "english": "Sand",          "hex": "#D4C4A0" },
+        "comment":    { "name": "灰茶 haicha",            "english": "Ash brown",     "hex": "#8A7A5E" },
+        "foreground": { "name": "焦茶 kogecha",           "english": "Dark brown",    "hex": "#3A3226" }
+    },
+    "accents": {
+        "keyword":  { "name": "蘇芳 suō",               "english": "Sappanwood",    "hex": "#973C3F" },
+        "function": { "name": "黄土色 ōdoiro",           "english": "Ochre",         "hex": "#BF783A" },
+        "string":   { "name": "松葉色 matsubairo",        "english": "Pine needle",   "hex": "#454D32" },
+        "type":     { "name": "藍色 aiiro",              "english": "Indigo",        "hex": "#165E83" },
+        "number":   { "name": "京紫 kyōmurasaki",        "english": "Kyoto purple",  "hex": "#745399" },
+        "constant": { "name": "弁柄色 bengarairo",        "english": "Red ochre",     "hex": "#8F4B38" }
+    },
+    "diagnostic": {
+        "error": { "name": "紅 kurenai",                 "english": "Crimson",       "hex": "#A03030" }
+    }
+}

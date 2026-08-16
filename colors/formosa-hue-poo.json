@@ -1,0 +1,22 @@
+{
+    "name": "Suannhai Hue-pòo",
+    "appearance": "light",
+    "neutrals": {
+        "background": { "name": "棉底 mî-té",            "english": "Cotton ground", "hex": "#FDF6EE" },
+        "surface":    { "name": "淺花 tshián-hue",        "english": "Pale print",    "hex": "#F5EADD" },
+        "border":     { "name": "布邊 pòo-pinn",          "english": "Cloth edge",    "hex": "#D9CBB8" },
+        "comment":    { "name": "淡墨 tām-ba̍k",          "english": "Faded ink",     "hex": "#8C8073" },
+        "foreground": { "name": "烏墨 oo-ba̍k",           "english": "Dark ink",      "hex": "#3A3028" }
+    },
+    "accents": {
+        "keyword":  { "name": "牡丹紅 bóo-tan-âng",      "english": "Peony red",     "hex": "#B03A50" },
+        "function": { "name": "桔黃 kiat-n̂g",            "english": "Tangerine",     "hex": "#B5721E" },
+        "string":   { "name": "葉綠 hio̍h-le̍k",          "english": "Leaf green",    "hex": "#4E7A46" },
+        "type":     { "name": "靛藍 tiān-nâ",             "english": "Indigo",        "hex": "#2A5F87" },
+        "number":   { "name": "桃紅 thô-âng",            "english": "Peach pink",    "hex": "#A8506E" },
+        "constant": { "name": "磚紅 tsng-âng",           "english": "Brick",         "hex": "#B0552E" }
+    },
+    "diagnostic": {
+        "error": { "name": "硃紅 tsu-âng",               "english": "Cinnabar",      "hex": "#B03030" }
+    }
+}
