@@ -51,9 +51,9 @@ function M.get(c, opts)
     Folded       = { fg = c.comment, bg = c.selection },
     FoldColumn   = { fg = c.comment, bg = transparent and c.none or c.bg },
 
-    DiffAdd      = { fg = c.diff.add and nil, bg = c.diff.add },
+    DiffAdd      = { bg = c.diff.add },
     DiffChange   = { bg = c.diff.change },
-    DiffDelete   = { fg = c.diff.delete and nil, bg = c.diff.delete },
+    DiffDelete   = { bg = c.diff.delete },
     DiffText     = { bg = c.diff.text },
 
     DiagnosticError          = { fg = c.error },
