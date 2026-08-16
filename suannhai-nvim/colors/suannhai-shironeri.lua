@@ -1,1 +1,0 @@
-require("suannhai").load("shironeri")
