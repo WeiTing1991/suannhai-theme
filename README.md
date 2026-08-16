@@ -36,6 +36,10 @@ The Nippon variants are built entirely from colors documented at [nipponcolors.c
 - [`Neovim`](https://github.com/WeiTing1991/suannhai.nvim)
 - [`WezTerm`](./suannhai-wezterm/)
 
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for release history.
+
 ## Contributing
 
 Bug reports, feature requests, and pull requests are welcome.
