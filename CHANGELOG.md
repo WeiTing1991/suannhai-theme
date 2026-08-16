@@ -14,6 +14,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Full UI theming (sidebar, tabs, panels, buttons, status bar)
   - Editor color scheme with syntax highlighting for C/C++, C#, HTML/XML, JSON, YAML, Markdown
   - Marketplace-ready plugin package
+- JetBrains plugin version now reads from git tag in CI release workflow
+
+### Fixed
+
+- JetBrains: reduce FileColor opacity to prevent tinted inactive tabs
 
 ## [0.1.0] - 2026-08-15
 
