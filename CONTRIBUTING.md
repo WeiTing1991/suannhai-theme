@@ -27,9 +27,9 @@ Each editor lives in its own subdirectory (`suannhai-zed/`, `suannhai-nvim/`, et
 ### Color changes
 
 - All color values come from the palette files in `colors/`.
-- Formosa colors use Tai-lo romanization for naming.
-- Nippon colors must match [nipponcolors.com](https://nipponcolors.com).
-- Run contrast checks before submitting -- comment text on background is the most common failure.
+- Formosa colors use Tai-lo romanization for naming. Hex values can be adjusted for contrast, but names stay in Taiwanese.
+- The Nippon variants are built entirely from colors documented at [nipponcolors.com](https://nipponcolors.com). Every accent, neutral, and error color must trace back to a named color on that site. When proposing a color change for a Nippon variant, include the nipponcolors name and verify the hex matches.
+- Run contrast checks before submitting -- 4.5:1 minimum for text, 3:1 for UI elements. Comment text on background is the most common failure.
 
 ## Bug reports
 
