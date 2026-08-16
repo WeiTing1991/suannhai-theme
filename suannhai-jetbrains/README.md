@@ -8,18 +8,6 @@
   <a href="https://github.com/WeiTing1991/suannhai-theme">Suannhai Theme</a>
 </h4>
 
-<div align="center"><p>
-    <a href="https://plugins.jetbrains.com/plugin/33591-suannhai-theme">
-      <img alt="JetBrains Plugin Version" src="https://img.shields.io/jetbrains/plugin/v/33591-suannhai-theme?style=for-the-badge&logo=jetbrains&color=8bd5ca&logoColor=D9E0EE&labelColor=302D41"/>
-    </a>
-    <a href="https://plugins.jetbrains.com/plugin/33591-suannhai-theme">
-      <img alt="JetBrains Plugin Downloads" src="https://img.shields.io/jetbrains/plugin/d/33591-suannhai-theme?style=for-the-badge&logo=jetbrains&color=c69ff5&logoColor=D9E0EE&labelColor=302D41"/>
-    </a>
-    <a href="https://github.com/WeiTing1991/suannhai-theme/blob/main/LICENSE">
-      <img alt="License" src="https://img.shields.io/github/license/WeiTing1991/suannhai-theme?style=for-the-badge&logo=starship&color=ee999f&logoColor=D9E0EE&labelColor=302D41"/>
-    </a>
-</p></div>
-
 Traditional color themes from Formosa and Nippon for JetBrains IDEs (IntelliJ, CLion, Rider, WebStorm, PyCharm, etc.).
 
 ## Themes
