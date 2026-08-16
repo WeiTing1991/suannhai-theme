@@ -1,19 +1,26 @@
-<p align="center">
-  <h1 align="center">Suannhai for JetBrains</h1>
-</p>
+<h1 align="center">Suannhai for JetBrains</h1>
 
-<p align="center">
-    The color themes inspired by traditional
-    <a href="https://en.wikipedia.org/wiki/Taiwan">Formosa</a> and
-    <a href="https://en.wikipedia.org/wiki/Traditional_Japanese_colors">Nippon</a>
-    with 5 darks and 3 lights variant.
-</p>
+<h4 align="center">
+  <a href="#installation">Install</a>
+  ·
+  <a href="#build-from-source">Build</a>
+  ·
+  <a href="https://github.com/WeiTing1991/suannhai-theme">Suannhai Theme</a>
+</h4>
 
-<p align="center">
-  <a href="https://plugins.jetbrains.com/plugin/33591-suannhai-theme">
-    <img alt="version" src="https://img.shields.io/badge/version-v0.1.0-1C1C1C?style=for-the-badge&labelColor=1C1C1C&color=ED784A">
-  </a>
-</p>
+<div align="center"><p>
+    <a href="https://plugins.jetbrains.com/plugin/33591-suannhai-theme">
+      <img alt="JetBrains Plugin Version" src="https://img.shields.io/jetbrains/plugin/v/33591-suannhai-theme?style=for-the-badge&logo=jetbrains&color=8bd5ca&logoColor=D9E0EE&labelColor=302D41"/>
+    </a>
+    <a href="https://plugins.jetbrains.com/plugin/33591-suannhai-theme">
+      <img alt="JetBrains Plugin Downloads" src="https://img.shields.io/jetbrains/plugin/d/33591-suannhai-theme?style=for-the-badge&logo=jetbrains&color=c69ff5&logoColor=D9E0EE&labelColor=302D41"/>
+    </a>
+    <a href="https://github.com/WeiTing1991/suannhai-theme/blob/main/LICENSE">
+      <img alt="License" src="https://img.shields.io/github/license/WeiTing1991/suannhai-theme?style=for-the-badge&logo=starship&color=ee999f&logoColor=D9E0EE&labelColor=302D41"/>
+    </a>
+</p></div>
+
+Traditional color themes from Formosa and Nippon for JetBrains IDEs (IntelliJ, CLion, Rider, WebStorm, PyCharm, etc.).
 
 ## Themes
 
@@ -57,17 +64,6 @@ cd suannhai-jetbrains
 
 The plugin `.zip` will be in `build/distributions/`.
 
-## Supported
+## Changelog
 
-- [`Zed`](../suannhai-zed)
-- [`JetBrains`](https://plugins.jetbrains.com/plugin/33591-suannhai-theme)
-- [`Neovim`](https://github.com/WeiTing1991/suannhai.nvim)
-- [`WezTerm`](../suannhai-wezterm)
-
-## Author
-
-[WeitingChen](https://plugins.jetbrains.com/vendor/weitingchen)
-
-## License
-
-[MIT](../LICENSE) © [Wei Ting Chen](https://github.com/WeiTing1991)
+See [CHANGELOG.md](../CHANGELOG.md) for release history.
