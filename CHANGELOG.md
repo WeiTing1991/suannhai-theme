@@ -15,8 +15,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Editor color scheme with syntax highlighting for C/C++, C#, HTML/XML, JSON, YAML, Markdown
   - Marketplace-ready plugin package
 
-## [0.1.0] - 2026-08-16
-
 ## [0.1.0] - 2026-08-15
 
 ### Added
