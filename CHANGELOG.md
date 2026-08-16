@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Initial release with 8 theme variants for Zed
+- Initial release with 8 theme variants for Zed and WezTerm
 - Formosa: Jiufen (dark), Lam-ni (dark), Hue-poo (light)
 - Nippon: Rouiro (dark), Sumi (dark), Koiai (dark), Torinoko (light), Shironeri (light)
 - Full syntax coverage for TypeScript, Python, C#, C++, Rust
