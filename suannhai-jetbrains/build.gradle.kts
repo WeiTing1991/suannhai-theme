@@ -20,7 +20,8 @@ intellijPlatform {
     pluginConfiguration {
         id = "com.weitingchen.suannhai-theme"
         name = "Suannhai Theme"
-        version = providers.gradleProperty("pluginVersion")
+        version = providers.environmentVariable("PLUGIN_VERSION")
+            .orElse(providers.gradleProperty("pluginVersion"))
         ideaVersion {
             sinceBuild = providers.gradleProperty("pluginSinceBuild")
             untilBuild = provider { null }

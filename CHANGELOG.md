@@ -15,11 +15,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Editor color scheme with syntax highlighting for C/C++, C#, HTML/XML, JSON, YAML, Markdown
   - Marketplace-ready plugin package
 - Palette validation script (`scripts/validate-palettes.py`) to check Zed and JetBrains themes against canonical `colors/` definitions
+- JetBrains plugin version now reads from git tag in CI release workflow
 
 ### Changed
 
 - JetBrains README: add marketplace badges, install/build sections, changelog link
 - Root README: JetBrains entry now links to both local folder and Marketplace
+
+### Fixed
+
+- JetBrains: reduce FileColor opacity to prevent tinted inactive tabs
 
 ## [0.1.0] - 2026-08-15
 
