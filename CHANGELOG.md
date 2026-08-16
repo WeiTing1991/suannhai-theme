@@ -7,7 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.1.0] - 2026-08-16
+### Added
+
+- JetBrains IDE theme plugin (IntelliJ, CLion, Rider, WebStorm, PyCharm, etc.)
+  - All 8 variants: Sumi, Rouiro, Koiai, Jiufen, Lam-ni, Torinoko, Shironeri, Hue-poo
+  - Full UI theming (sidebar, tabs, panels, buttons, status bar)
+  - Editor color scheme with syntax highlighting for C/C++, C#, HTML/XML, JSON, YAML, Markdown
+  - Marketplace-ready plugin package
 
 ## [0.1.0] - 2026-08-15
 

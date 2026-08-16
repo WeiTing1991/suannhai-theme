@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<idea-plugin>
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Nippon Dark -->
+        <themeProvider id="suannhai.sumi" path="/themes/suannhai_sumi.theme.json"/>
+        <themeProvider id="suannhai.rouiro" path="/themes/suannhai_rouiro.theme.json"/>
+        <themeProvider id="suannhai.koiai" path="/themes/suannhai_koiai.theme.json"/>
+
+        <!-- Formosa Dark -->
+        <themeProvider id="suannhai.jiufen" path="/themes/suannhai_jiufen.theme.json"/>
+        <themeProvider id="suannhai.lam-ni" path="/themes/suannhai_lam_ni.theme.json"/>
+
+        <!-- Nippon Light -->
+        <themeProvider id="suannhai.torinoko" path="/themes/suannhai_torinoko.theme.json"/>
+        <themeProvider id="suannhai.shironeri" path="/themes/suannhai_shironeri.theme.json"/>
+
+        <!-- Formosa Light -->
+        <themeProvider id="suannhai.hue-poo" path="/themes/suannhai_hue_poo.theme.json"/>
+    </extensions>
+</idea-plugin>
