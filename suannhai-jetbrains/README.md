@@ -37,12 +37,6 @@ Traditional color themes from Formosa and Nippon for JetBrains IDEs (IntelliJ, C
 5. Go to **Settings** > **Appearance & Behavior** > **Appearance**
 6. Select a `Suannhai` variant from the **Theme** dropdown
 
-### Manual Install
-
-1. Download the latest `.zip` from [Releases](https://github.com/WeiTing1991/suannhai-theme/releases) or [Marketplace](https://plugins.jetbrains.com/plugin/33591-suannhai-theme)
-2. Go to **Settings** > **Plugins** > **Gear icon** > **Install Plugin from Disk...**
-3. Select the `.zip` file and restart the IDE
-
 ## Build from Source
 
 ```bash
