@@ -32,7 +32,7 @@ The Nippon variants are built entirely from colors documented at [nipponcolors.c
 ## Supported
 
 - [`Zed`](./suannhai-zed/)
-- [`JetBrains`](./suannhai-jetbrains/) (IntelliJ, CLion, Rider, WebStorm, PyCharm, etc.)
+- [`JetBrains`](https://plugins.jetbrains.com/plugin/33591-suannhai-theme) (IntelliJ, CLion, Rider, WebStorm, PyCharm, etc.)
 - [`Neovim`](https://github.com/WeiTing1991/suannhai.nvim)
 - [`WezTerm`](./suannhai-wezterm/)
 
