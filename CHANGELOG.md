@@ -11,9 +11,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - JetBrains IDE theme plugin (IntelliJ, CLion, Rider, WebStorm, PyCharm, etc.)
   - All 8 variants: Sumi, Rouiro, Koiai, Jiufen, Lam-ni, Torinoko, Shironeri, Hue-poo
-  - Full UI theming (sidebar, tabs, panels, buttons, status bar)
-  - Editor color scheme with syntax highlighting for C/C++, C#, HTML/XML, JSON, YAML, Markdown
-  - Marketplace-ready plugin package
 - Icon assets (app, circle, glyph, favicon) in `assets/icons/`
 
 ### Fixed
@@ -23,6 +20,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - JetBrains: update plugin icon to mountain-and-sea design
+- Palette validation script (`scripts/validate-palettes.py`) to check Zed and JetBrains themes against canonical `colors/` definitions
+- JetBrains plugin version now reads from git tag in CI release workflow
 
 ## [0.1.0] - 2026-08-15
 
