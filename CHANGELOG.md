@@ -15,3 +15,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Formosa: Jiufen (dark), Lam-ni (dark), Hue-poo (light)
 - Nippon: Rouiro (dark), Sumi (dark), Koiai (dark), Torinoko (light), Shironeri (light)
 - Full syntax coverage for TypeScript, Python, C#, C++, Rust
+
+### Changed
+
+
+### Removed

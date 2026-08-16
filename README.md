@@ -1,34 +1,37 @@
 # Suannhai
 
-Traditional color themes inspired by Nippon and Formosa.
+Suann-hai (山海) means "mountain and sea" in Taiwanese, the two things that define the island. This project takes traditional colors from both Formosa and Nippon. The Formosa variants are named after places and crafts -- Jiufen's lantern-lit stone steps, the indigo dye houses of Lam-ni, the printed cotton of Hue-poo. The Nippon variants are built entirely from colors documented at [nipponcolors.com](https://nipponcolors.com) 
 
 ## Variants
 
 ### Formosa
 
-| Variant          | Appearance |
-| ---------------- | ---------- |
-| Suannhai Jiufen  | Dark       |
-| Suannhai Lam-ni  | Dark       |
-| Suannhai Hue-poo | Light      |
+| Variant          | Appearance | Preview |
+| ---------------- | ---------- | ------- |
+| Suannhai Jiufen  | Dark       | ![Jiufen](./assets/jiufen.png) |
+| Suannhai Lam-ni  | Dark       | ![Lam-ni](./assets/lam-ni.png) |
+| Suannhai Hue-poo | Light      | ![Hue-poo](./assets/hue-poo.png) |
 
 ### Nippon
 
-| Variant            | Appearance |
-| ------------------ | ---------- |
-| Suannhai Rouiro    | Dark       |
-| Suannhai Sumi      | Dark       |
-| Suannhai Koiai     | Dark       |
-| Suannhai Torinoko  | Light      |
-| Suannhai Shironeri | Light      |
+| Variant            | Appearance | Preview |
+| ------------------ | ---------- | ------- |
+| Suannhai Rouiro    | Dark       | ![Rouiro](./assets/rouiro.png) |
+| Suannhai Sumi      | Dark       | ![Sumi](./assets/sumi.png) |
+| Suannhai Koiai     | Dark       | ![Koiai](./assets/koiai.png) |
+| Suannhai Torinoko  | Light      | ![Torinoko](./assets/torinoko.png) |
+| Suannhai Shironeri | Light      | ![Shironeri](./assets/shironeri.png) |
 
 ## Supported
 
-- [`Zed`](zed/)
-- [`Nvim`](nvim/)
-- [`WezTerm`](wezterm/)
+- [`Zed`](./suannhai-zed/)
+- [`Neovim`](./suannhai-nvim/)
+- [`WezTerm`](./suannhai-wezterm/)
 
-## Color Sources
+## Contributing
 
-- **Formosa** palettes use original colors named in Tai-lo romanization
-- **Nippon** palettes use traditional Japanese colors from [nipponcolors.com](https://nipponcolors.com)
+Bug reports, feature requests, and pull requests are welcome.
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/LICENSE-MIT-8B81C3?style=for-the-badge&labelColor=2E2C2A)](LICENSE)
