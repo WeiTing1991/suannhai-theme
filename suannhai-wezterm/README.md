@@ -1,10 +1,30 @@
-<p align="center">
-  <h1 align="center">Suannhai for WezTerm</h1>
-</p>
+<h1 align="center">Suannhai for WezTerm</h1>
+
+<h4 align="center">
+  <a href="#installation">Install</a>
+  ·
+  <a href="https://github.com/WeiTing1991/suannhai-theme">Suannhai Theme</a>
+</h4>
 
 Traditional color themes from Formosa and Nippon for [WezTerm](https://wezfurlong.org/wezterm/).
 
-## Install
+## Themes
+
+### Formosa
+
+- Suannhai Jiufen (Dark)
+- Suannhai Lam-ni (Dark)
+- Suannhai Hue-poo (Light)
+
+### Nippon
+
+- Suannhai Rouiro (Dark)
+- Suannhai Sumi (Dark)
+- Suannhai Koiai (Dark)
+- Suannhai Torinoko (Light)
+- Suannhai Shironeri (Light)
+
+## Installation
 
 Copy the `.toml` files from `colors/` into your WezTerm color scheme directory:
 
@@ -22,15 +42,6 @@ Then set the scheme in your `wezterm.lua`:
 config.color_scheme = 'Suannhai Jiufen'
 ```
 
-## Available Schemes
+## Changelog
 
-| Name | Appearance |
-| ---- | ---------- |
-| Suannhai Jiufen | Dark |
-| Suannhai Lam-ni | Dark |
-| Suannhai Hue-poo | Light |
-| Suannhai Rouiro | Dark |
-| Suannhai Sumi | Dark |
-| Suannhai Koiai | Dark |
-| Suannhai Torinoko | Light |
-| Suannhai Shironeri | Light |
+See [CHANGELOG.md](../CHANGELOG.md) for release history.

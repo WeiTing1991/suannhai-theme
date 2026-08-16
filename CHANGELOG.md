@@ -14,6 +14,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Full UI theming (sidebar, tabs, panels, buttons, status bar)
   - Editor color scheme with syntax highlighting for C/C++, C#, HTML/XML, JSON, YAML, Markdown
   - Marketplace-ready plugin package
+- Palette validation script (`scripts/validate-palettes.py`) to check Zed and JetBrains themes against canonical `colors/` definitions
+
+### Changed
+
+- JetBrains README: add marketplace badges, install/build sections, changelog link
+- Root README: JetBrains entry now links to both local folder and Marketplace
 
 ## [0.1.0] - 2026-08-15
 
