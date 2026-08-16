@@ -46,7 +46,7 @@ The Nippon variants are built entirely from colors documented at [nipponcolors.c
 
 ## Supported
 
-- [`Zed`](./suannhai-zed/)
+- [`Zed`](./suannhai-zed/) — [Extension](https://zed.dev/extensions/suannhai-theme)
 - [`JetBrains`](./suannhai-jetbrains/) — [Marketplace](https://plugins.jetbrains.com/vendor/weitingchen) (IntelliJ, CLion, Rider, WebStorm, PyCharm, etc.)
 - [`Neovim`](https://github.com/WeiTing1991/suannhai.nvim)
 - [`WezTerm`](./suannhai-wezterm/)
