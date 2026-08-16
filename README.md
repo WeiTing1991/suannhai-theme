@@ -1,9 +1,13 @@
 # Suannhai
 
-[![Version](https://img.shields.io/badge/VERSION-0.1.0-8B81C3?style=for-the-badge&labelColor=2E2C2A)](CHANGELOG.md)
-[![License: MIT](https://img.shields.io/badge/LICENSE-MIT-8B81C3?style=for-the-badge&labelColor=2E2C2A)](LICENSE)
+[![Version](https://img.shields.io/badge/VERSION-0.1.0-ED6D3D?style=for-the-badge&labelColor=2E2C2A)](CHANGELOG.md)
+[![License: MIT](https://img.shields.io/badge/LICENSE-MIT-ED6D3D?style=for-the-badge&labelColor=2E2C2A)](LICENSE)
 
-Suann-hai (山海) means "mountain and sea" in Taiwanese, the two things that define the island. This project takes traditional colors from both Formosa and Nippon. The Formosa variants are named after places and crafts -- `Jiufen` lantern-lit stone steps, the indigo dye houses of `Lam-ni`, the printed cotton of `Hue-poo`. The Nippon variants are built entirely from colors documented at [nipponcolors.com](https://nipponcolors.com) 
+Suann-hai (山海) means "mountain and sea" in Taiwanese, the two things that define the island. This project takes traditional colors from both [Formosa](https://en.wikipedia.org/wiki/Taiwan) and [Nippon](https://nipponcolors.com). 
+
+The Formosa variants are named after places and crafts -- `Jiufen` lantern-lit stone steps, the indigo dye houses of `Lam-ni`, the printed cotton of `Hue-poo`. 
+
+The Nippon variants are built entirely from colors documented at [nipponcolors.com](https://nipponcolors.com). Each variant uses 5 neutrals (background, surface, border, comment, foreground), 6 accents (keyword, function, string, type, number, constant), and 1 error -- every hex value carries a name and a history.
 
 ## Variants
 
@@ -32,4 +36,5 @@ Suann-hai (山海) means "mountain and sea" in Taiwanese, the two things that de
 - [`WezTerm`](./suannhai-wezterm/)
 
 ## Contributing
+
 Bug reports, feature requests, and pull requests are welcome.
