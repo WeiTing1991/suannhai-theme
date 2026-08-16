@@ -14,6 +14,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Full UI theming (sidebar, tabs, panels, buttons, status bar)
   - Editor color scheme with syntax highlighting for C/C++, C#, HTML/XML, JSON, YAML, Markdown
   - Marketplace-ready plugin package
+- Icon assets (app, circle, glyph, favicon) in `assets/icons/`
+
+### Fixed
+
+- JetBrains: reduce FileColor opacity (15 → 03) to prevent visible tint on inactive editor tabs
+
+### Changed
+
+- JetBrains: update plugin icon to mountain-and-sea design
 
 ## [0.1.0] - 2026-08-15
 
