@@ -1,0 +1,3 @@
+[submodule "suannhai-nvim"]
+	path = suannhai-nvim
+	url = git@github.com:WeiTing1991/suannhai.nvim.git
