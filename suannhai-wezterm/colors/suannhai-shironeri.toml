@@ -1,0 +1,33 @@
+[metadata]
+name = "Suannhai Shironeri"
+origin_url = "https://github.com/WeiTing1991/suannhai-theme"
+
+[colors]
+foreground = "#2C2A26"
+background = "#FCFAF2"
+cursor_bg = "#2C2A26"
+cursor_fg = "#FCFAF2"
+cursor_border = "#2C2A26"
+selection_bg = "#BDC0BA"
+selection_fg = "#2C2A26"
+scrollbar_thumb = "#BDC0BA"
+split = "#BDC0BA"
+
+ansi = ["#F5F2E8", "#973C3F", "#227D51", "#A86520", "#165E83", "#745399", "#9C5A38", "#2C2A26"]
+brights = ["#8C8578", "#ab6365", "#4e9773", "#b9834c", "#447e9b", "#8f75ad", "#af7b5f", "#565451"]
+
+[colors.tab_bar]
+background = "#FCFAF2"
+
+[colors.tab_bar.active_tab]
+bg_color = "#F5F2E8"
+fg_color = "#2C2A26"
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#FCFAF2"
+fg_color = "#8C8578"
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = "#BDC0BA"
+fg_color = "#2C2A26"
+

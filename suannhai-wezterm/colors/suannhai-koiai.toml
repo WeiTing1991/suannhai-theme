@@ -1,0 +1,33 @@
+[metadata]
+name = "Suannhai Koiai"
+origin_url = "https://github.com/WeiTing1991/suannhai-theme"
+
+[colors]
+foreground = "#BDC6D0"
+background = "#0F2540"
+cursor_bg = "#BDC6D0"
+cursor_fg = "#0F2540"
+cursor_border = "#BDC6D0"
+selection_bg = "#2E4560"
+selection_fg = "#BDC6D0"
+scrollbar_thumb = "#2E4560"
+split = "#2E4560"
+
+ansi = ["#16304E", "#F17C67", "#69B0AC", "#F9BF45", "#7DB9DE", "#9B90C2", "#E79460", "#BDC6D0"]
+brights = ["#77969A", "#f39685", "#87bfbc", "#facb6a", "#97c7e4", "#afa6ce", "#eba97f", "#cad1d9"]
+
+[colors.tab_bar]
+background = "#0F2540"
+
+[colors.tab_bar.active_tab]
+bg_color = "#16304E"
+fg_color = "#BDC6D0"
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#0F2540"
+fg_color = "#77969A"
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = "#2E4560"
+fg_color = "#BDC6D0"
+

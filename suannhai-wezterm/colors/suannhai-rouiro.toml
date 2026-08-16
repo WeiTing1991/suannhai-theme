@@ -1,0 +1,33 @@
+[metadata]
+name = "Suannhai Rouiro"
+origin_url = "https://github.com/WeiTing1991/suannhai-theme"
+
+[colors]
+foreground = "#BDC0BA"
+background = "#0C0C0C"
+cursor_bg = "#BDC0BA"
+cursor_fg = "#0C0C0C"
+cursor_border = "#BDC0BA"
+selection_bg = "#2E2C2A"
+selection_fg = "#BDC0BA"
+scrollbar_thumb = "#2E2C2A"
+split = "#2E2C2A"
+
+ansi = ["#161616", "#ED784A", "#5DAC81", "#FFB11B", "#33A6B8", "#8B81C3", "#CA7A2C", "#BDC0BA"]
+brights = ["#656255", "#f0936e", "#7dbc9a", "#ffc048", "#5bb7c6", "#a29acf", "#d49456", "#caccc7"]
+
+[colors.tab_bar]
+background = "#0C0C0C"
+
+[colors.tab_bar.active_tab]
+bg_color = "#161616"
+fg_color = "#BDC0BA"
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#0C0C0C"
+fg_color = "#656255"
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = "#2E2C2A"
+fg_color = "#BDC0BA"
+

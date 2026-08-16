@@ -1,0 +1,33 @@
+[metadata]
+name = "Suannhai Hue-pòo"
+origin_url = "https://github.com/WeiTing1991/suannhai-theme"
+
+[colors]
+foreground = "#3A3028"
+background = "#FDF6EE"
+cursor_bg = "#3A3028"
+cursor_fg = "#FDF6EE"
+cursor_border = "#3A3028"
+selection_bg = "#D9CBB8"
+selection_fg = "#3A3028"
+scrollbar_thumb = "#D9CBB8"
+split = "#D9CBB8"
+
+ansi = ["#F5EADD", "#B03A50", "#4E7A46", "#B5721E", "#2A5F87", "#A8506E", "#B0552E", "#3A3028"]
+brights = ["#8C8073", "#bf6173", "#71946b", "#c38e4b", "#547f9f", "#b9738b", "#bf7757", "#615953"]
+
+[colors.tab_bar]
+background = "#FDF6EE"
+
+[colors.tab_bar.active_tab]
+bg_color = "#F5EADD"
+fg_color = "#3A3028"
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#FDF6EE"
+fg_color = "#8C8073"
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = "#D9CBB8"
+fg_color = "#3A3028"
+

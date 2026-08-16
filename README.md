@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/badge/VERSION-0.1.0-ED6D3D?style=for-the-badge&labelColor=2E2C2A)](CHANGELOG.md)
 [![License: MIT](https://img.shields.io/badge/LICENSE-MIT-ED6D3D?style=for-the-badge&labelColor=2E2C2A)](LICENSE)
 
-Suann-hai (山海) means "mountain and sea" in Taiwanese, the two things that define the island. This project takes traditional colors from both [Formosa](https://en.wikipedia.org/wiki/Taiwan) and [Nippon](https://nipponcolors.com). 
+**Suann-Hái** (山海) means "mountain and sea" in Taiwanese, the two things that define the island. This project takes traditional colors from both [Formosa](https://en.wikipedia.org/wiki/Taiwan) and [Nippon](https://nipponcolors.com). 
 
 The Formosa variants are named after places and crafts -- `Jiufen` lantern-lit stone steps, the indigo dye houses of `Lam-ni`, the printed cotton of `Hue-poo`. 
 

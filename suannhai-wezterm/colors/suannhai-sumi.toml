@@ -1,0 +1,33 @@
+[metadata]
+name = "Suannhai Sumi"
+origin_url = "https://github.com/WeiTing1991/suannhai-theme"
+
+[colors]
+foreground = "#C4C7C1"
+background = "#1C1C1C"
+cursor_bg = "#C4C7C1"
+cursor_fg = "#1C1C1C"
+cursor_border = "#C4C7C1"
+selection_bg = "#3A3835"
+selection_fg = "#C4C7C1"
+scrollbar_thumb = "#3A3835"
+split = "#3A3835"
+
+ansi = ["#262626", "#D75455", "#7BA23F", "#E2943B", "#58B2DC", "#8B81C3", "#C7802D", "#C4C7C1"]
+brights = ["#9E7A7A", "#df7677", "#95b465", "#e7a962", "#79c1e3", "#a29acf", "#d29957", "#cfd2cd"]
+
+[colors.tab_bar]
+background = "#1C1C1C"
+
+[colors.tab_bar.active_tab]
+bg_color = "#262626"
+fg_color = "#C4C7C1"
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#1C1C1C"
+fg_color = "#9E7A7A"
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = "#3A3835"
+fg_color = "#C4C7C1"
+

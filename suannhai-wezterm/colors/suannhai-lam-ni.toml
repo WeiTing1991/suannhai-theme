@@ -1,0 +1,33 @@
+[metadata]
+name = "Suannhai Lâm-ní"
+origin_url = "https://github.com/WeiTing1991/suannhai-theme"
+
+[colors]
+foreground = "#C8D0D8"
+background = "#0E1A28"
+cursor_bg = "#C8D0D8"
+cursor_fg = "#0E1A28"
+cursor_border = "#C8D0D8"
+selection_bg = "#2A3D52"
+selection_fg = "#C8D0D8"
+scrollbar_thumb = "#2A3D52"
+split = "#2A3D52"
+
+ansi = ["#172433", "#C4614F", "#6FA88C", "#D4A24C", "#7FB5D5", "#A192C4", "#D08A5C", "#C8D0D8"]
+brights = ["#5E7085", "#cf8072", "#8bb9a3", "#dcb46f", "#98c3dd", "#b3a7cf", "#d9a17c", "#d3d9df"]
+
+[colors.tab_bar]
+background = "#0E1A28"
+
+[colors.tab_bar.active_tab]
+bg_color = "#172433"
+fg_color = "#C8D0D8"
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#0E1A28"
+fg_color = "#5E7085"
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = "#2A3D52"
+fg_color = "#C8D0D8"
+

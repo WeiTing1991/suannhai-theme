@@ -1,0 +1,33 @@
+[metadata]
+name = "Suannhai Jiufen"
+origin_url = "https://github.com/WeiTing1991/suannhai-theme"
+
+[colors]
+foreground = "#D6CFC4"
+background = "#151A21"
+cursor_bg = "#D6CFC4"
+cursor_fg = "#151A21"
+cursor_border = "#D6CFC4"
+selection_bg = "#3D4652"
+selection_fg = "#D6CFC4"
+scrollbar_thumb = "#3D4652"
+split = "#3D4652"
+
+ansi = ["#252C36", "#E05A4E", "#7FA37A", "#D9A441", "#6FA6A8", "#A98BB5", "#E08A50", "#D6CFC4"]
+brights = ["#6F7480", "#e67b71", "#98b594", "#e0b667", "#8bb7b9", "#baa2c3", "#e6a173", "#ded8cf"]
+
+[colors.tab_bar]
+background = "#151A21"
+
+[colors.tab_bar.active_tab]
+bg_color = "#252C36"
+fg_color = "#D6CFC4"
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#151A21"
+fg_color = "#6F7480"
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = "#3D4652"
+fg_color = "#D6CFC4"
+
