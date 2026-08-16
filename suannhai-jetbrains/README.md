@@ -64,6 +64,10 @@ The plugin `.zip` will be in `build/distributions/`.
 - [`Neovim`](https://github.com/WeiTing1991/suannhai.nvim)
 - [`WezTerm`](../suannhai-wezterm)
 
+## Author
+
+[WeitingChen](https://plugins.jetbrains.com/vendor/weitingchen)
+
 ## License
 
 [MIT](../LICENSE) © [Wei Ting Chen](https://github.com/WeiTing1991)
